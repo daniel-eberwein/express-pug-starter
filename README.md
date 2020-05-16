@@ -8,3 +8,7 @@ npm install
 ## Run the app
 
 node index.js
+
+## Open browser
+
+localhost:3000
