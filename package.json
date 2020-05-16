@@ -1,0 +1,15 @@
+{
+  "name": "express-pug-starter",
+  "version": "1.0.0",
+  "description": "Basic Express application with Pug as view engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Eberwein",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
